@@ -1,0 +1,8 @@
+*.ymt
+*.ymt.bin
+*.ydd
+*.ytd
+ymt/
+saida_*/
+arquivos_*.txt
+node_modules/

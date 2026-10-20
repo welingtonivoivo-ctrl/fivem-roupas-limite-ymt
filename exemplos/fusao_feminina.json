@@ -1,0 +1,15 @@
+{
+  "ped": "mp_f_freemode_01",
+  "pasta_ymt": "./ymt",
+  "lista_arquivos": "./arquivos_feminina.txt",
+  "molde": "mp_f_myclothing_pack",
+  "saida": "./saida_feminina",
+  "grupos": {
+    "street_f_pack_a": ["mp_f_bvfardasfem", "fardamentos11bpm_ruta", "gcmsaopauloruta2026", "prfruta", "cetruta", "exercito_ruta", "fardas_eeb01", "incendioruta3d", "zonasulbrasil", "mp_f_fivem_brasil", "mp_f_myclothing_pack"],
+    "street_f_pack_b": ["mp_f_megapackbig"]
+  },
+  "pular": {
+    "mp_f_bvfardasfem": { "berd": [0, 2, 4, 6], "lowr": [14], "hand": [0], "jbib": [0], "props": { "p_ears": [0, 1, 2, 3, 4] } },
+    "exercito_ruta": { "teef": [1] }
+  }
+}

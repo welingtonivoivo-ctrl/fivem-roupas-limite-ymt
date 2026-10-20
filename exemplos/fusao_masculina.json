@@ -1,0 +1,16 @@
+{
+  "ped": "mp_m_freemode_01",
+  "pasta_ymt": "./ymt",
+  "lista_arquivos": "./arquivos_masculina.txt",
+  "molde": "mp_m_myclothing_pack",
+  "saida": "./saida_masculina",
+  "grupos": {
+    "street_m_fardas": ["mp_m_bvfardasmale", "fardamentos11bpm_ruta", "gcmsaopauloruta2026", "prfruta", "cetruta", "exercito_ruta", "fardas_eeb01", "incendioruta3d", "zonasulbrasil", "mp_m_fivem_brasil"],
+    "street_m_roupas": ["mp_m_megapackbig", "mp_m_myclothing_pack"]
+  },
+  "pular": {
+    "mp_m_bvfardasmale": { "hand": [10, 12], "task": [35], "props": { "p_ears": [0, 1, 2] } },
+    "exercito_ruta": { "teef": [1], "decl": [0, 1] },
+    "fardas_eeb01": { "comp": ["head"] }
+  }
+}
